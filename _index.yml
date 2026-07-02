@@ -23,7 +23,7 @@ indexpage:
         - title: Use REST APIs
           url: /scpivs44_rest_apis_overview.html
         - title: Migrate from Windows-based SCV
-          url: /scpivs44_migrate.html
+          url: /scpivs44_migration_overview.html
     - title: Blogs & community
       links:
         - title: NetApp blog – SCV
